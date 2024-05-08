@@ -10,4 +10,4 @@ Link: https://developers.google.com/interactive-media-ads/docs/sdks/android/dai/
 Installation
 By default adding this plugin to your cordova-android project will remove the com.google.android.gms.permission.AD_ID permission from Application AndroidManifest.xml file.
 
-cordova plugin add https://github.com/Bphreaker/cordova-plugin-remove-ad-permission.git
+cordova plugin add https://github.com/ins6nity/cordova-plugin-remove-ad-permission.git
